@@ -22,32 +22,32 @@ div.tile-container .tile .tile-inner {
     background-image: url('../i/ycy/32.gif')
 }
 .tile.tile-64 .tile-inner {
-    background-image: url('../i/yukachi/64.gif')
+    background-image: url('../i/ycy/64.gif')
 }
 .tile.tile-128 .tile-inner {
-    background-image: url('../i/yukachi/128.gif')
+    background-image: url('../i/ycy/128.gif')
 }
 .tile.tile-256 .tile-inner {
-    background-image: url('../i/yukachi/256.gif')
+    background-image: url('../i/ycy/256.gif')
 }
 .tile.tile-512 .tile-inner {
-    background-image: url('../i/yukachi/512.gif')
+    background-image: url('../i/ycy/512.gif')
 }
 .tile.tile-1024 .tile-inner {
-    background-image: url('../i/yukachi/1024.gif')
+    background-image: url('../i/ycy/1024.gif')
 }
 .tile.tile-2048 .tile-inner {
-    background-image: url('../i/yukachi/2048.gif')
+    background-image: url('../i/ycy/2048.gif')
 }
 .tile.tile-super .tile-inner {
     color: rgb(255, 230, 230);
     color: rgba(255, 230, 230, 0.9);
     text-shadow: 0 0 3px rgba(255, 230, 230, 0.9);
-    background-image: url('../i/yukachi/super.gif');
+    background-image: url('../i/ycy/super.gif');
     font-size: 20px;
     line-height: 100%;
 }
 #preload images body:after {
     display: none;
-    url('../i/ycy/2.gif') url('../i/ycy/4.gif') url('../i/ycy/8.gif') url('../i/ycy/16.gif') url('../i/ycy/32.gif') url('../i/yukachi/64.gif') url('../i/yukachi/128.gif') url('../i/yukachi/256.gif') url('../i/yukachi/512.gif') url('../i/yukachi/1024.gif') url('../i/yukachi/2048.gif') url('../i/yukachi/super.gif')
+    url('../i/ycy/2.gif') url('../i/ycy/4.gif') url('../i/ycy/8.gif') url('../i/ycy/16.gif') url('../i/ycy/32.gif') url('../i/ycy/64.gif') url('../i/ycy/128.gif') url('../i/ycy/256.gif') url('../i/ycy/512.gif') url('../i/ycy/1024.gif') url('../i/ycy/2048.gif') url('../i/ycy/super.gif')
 }
