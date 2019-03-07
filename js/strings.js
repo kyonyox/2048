@@ -59,5 +59,17 @@ var iguchi2048_stringDictionary = {
         "You win!": "You win!",
         "Game over!": "Game over!",
         "http://marumichannel.github.io/2048/": "http://marumichannel.github.io/2048/#sugar"
-    }
+    },
+    {
+        "id": "ycy",
+        "2048": "杨超越 2048",
+        "Title": "杨超越",
+        "Subtitle": "(Chaoyue Yang)",
+        "Join the numbers and get to the 2048 tile!": "Join the 井口 and get the 井口 2048 tile!",
+        "When two tiles with the same number touch": "When two tiles with the same 井口 touch, they merge into one!",
+        "you join tiles to score high!": "you join 井口 to score high!",
+        "You win!": "You win! ⊂（＿＾ω＾）⊃",
+        "Game over!": "Game over!",
+        "http://marumichannel.github.io/2048/": "http://marumichannel.github.io/2048/#yukachi"
+    },
 ]};
